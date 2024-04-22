@@ -1,0 +1,7 @@
+### 1.1.0 | 2023-11-22
+- Added support for the Gravity Forms 2.8 form editor compact view.
+- Updated the theme framework variables to be compatible with Gravity Forms 2.8.
+- Fixed a bug where an invisible Turnstile field always fails validation in a Conversational Form.
+
+### 1.0.0 | 2023-06-21
+- All new!
